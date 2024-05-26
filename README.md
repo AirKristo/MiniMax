@@ -13,7 +13,7 @@ Needs a min or max to avoid spitting out an exception asking or max or min witho
 
 File must also be a txt file 
 
-If any issues with python in command line then use python3 which also works, both worked for me in snappy1 so I did all the tests with the python argument
+If any issues with python in command line then use python3 which also works
 
 
 
